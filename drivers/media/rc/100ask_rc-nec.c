@@ -4,9 +4,9 @@
 static struct rc_map_table rc_100ask_nec[] = {
     { 0x45, KEY_POWER},
     { 0x47, KEY_MENU},
-    { 0x44, KEY_UNKNOWN},
+    { 0x44, KEY_INFO},
     { 0x40, KEY_VOLUMEUP},
-    { 0x43, BTN_BACK},
+    { 0x43, KEY_BACK},
     { 0x07, KEY_PREVIOUS}, 
     { 0x15, KEY_PLAYPAUSE},
     { 0x09, KEY_NEXT},
