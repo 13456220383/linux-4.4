@@ -208,4 +208,5 @@ source "drivers/rk_nand/Kconfig"
 
 source "drivers/headset_observe/Kconfig"
 
+source "drivers/hello_drv/Kconfig"
 endmenu

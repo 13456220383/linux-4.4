@@ -1,0 +1,4 @@
+config HELLO
+	tristate "Hello world for Firefly"
+	help
+	  Hello for Firefly
